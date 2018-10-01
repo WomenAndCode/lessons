@@ -3,13 +3,13 @@ const button = document.querySelector("#button");
 const input = document.querySelector("#input");
 const netto = document.querySelector("#netto");
 
-button.onclick = function(e) {
+button.onclick = function (e) {
   e.preventDefault();
 
   const inputValue = input.value;
   let nettoValue;
 
-  if(inputValue <= 916.7) {
+  if (inputValue <= 916.7) {
     nettoValue = inputValue;
   } else if (inputValue <= 2084) {
     const incomeTax = (inputValue - 916.7) * 0.365;
@@ -23,4 +23,4 @@ button.onclick = function(e) {
   }
 
   netto.innerHTML = parseFloat(nettoValue).toFixed(2);
-}
+};
