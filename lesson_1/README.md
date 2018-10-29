@@ -2,7 +2,7 @@
 
 # Introduction to JavaScript
 
-You might find a more actual version of this document here: http://l1.womenandcode.org
+You might find a more actual version of this document here: http://L1.womenandcode.org
 
 ## Lesson 1
 

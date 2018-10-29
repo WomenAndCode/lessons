@@ -1,5 +1,5 @@
 <img src="http://www.womenandcode.org.s3-website.eu-central-1.amazonaws.com/WomenAndCode-header.png" alt="Women And Code" width=600px/>
 
-Lesson 2 contains 3 exercises
+Lesson 4 contains no exercises at the moment
 
-Instructions see http://L2.womenandcode.org
+Instructions see http://L4.womenandcode.org
