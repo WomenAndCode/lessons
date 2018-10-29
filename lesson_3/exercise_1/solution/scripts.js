@@ -8,10 +8,10 @@ button.onclick = function(e) {
   const inputValue = input.value;
   let nettoValue;
 
-  if (inputValue <= 916.7) {
+  if (inputValue <= 11000) {
     nettoValue = inputValue;
   } else {
-    const incomeTax = (inputValue - 916.7) * 0.365;
+    const incomeTax = (inputValue - 11000) * 0.365;
     nettoValue = inputValue - incomeTax;
   }
 
