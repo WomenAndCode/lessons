@@ -2,9 +2,9 @@
 
 # Introduction to JavaScript
 
-You might find a more actual version of this document here: http://L1.womenandcode.org
+You might find a more actual version of this document here: http://js1.womenandcode.com
 
-## Lesson 1
+## Module 1
 
 Welcome to the exciting world of JavaScript! You will go through this program in small groups of 2-3 or on your own at home. If you get stuck, feel free to ask one of our mentors for help. We&#39;re here to make this experience a good one for you.
 
